@@ -1,0 +1,13 @@
+.comments {
+    width: 40%;
+    background: #999;
+    border-radius: 6px;
+    padding: 10px 30px;
+    display: flex;
+    margin-top: 10px;
+}
+
+.avatar {
+    margin-top: 23px;
+    margin-right: 10px;
+}

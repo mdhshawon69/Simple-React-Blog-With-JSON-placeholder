@@ -1,0 +1,13 @@
+.post-btn {
+    padding: 5px 10px;
+    background: cornflowerblue;
+    border-radius: 2px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.post-btn:hover {
+    background: cyan;
+    transition: all 0.3s ease;
+    color: #fff;
+}
